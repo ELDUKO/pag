@@ -34,20 +34,20 @@
 }
 
 .contenedor{
-    background: url(/images/owen-lystrup-boLgiM0qwkg-unsplash1.png);
+    background: url(images/owen-lystrup-boLgiM0qwkg-unsplash1.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 .contenedor1{
-    background: url(/images/ballena1.png);
+    background: url(images/ballena1.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 
 .edificios{
-    background: url(/images/owen-lystrup-boLgiM0qwkg-unsplash1.png);
+    background: url(images/owen-lystrup-boLgiM0qwkg-unsplash1.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -65,7 +65,7 @@
     font-family: 'Anton', sans-serif;
 }
 .edificios1{
-    background: url(/images/ballena1.png);
+    background: url(images/ballena1.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
